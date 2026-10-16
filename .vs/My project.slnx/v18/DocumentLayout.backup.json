@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aziz Rebai\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\sun\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\sun\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\neptune\\neptunerot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\neptune\\neptunerot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\uranus\\uranusrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\uranus\\uranusrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\saturn 1\\saturnrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\saturn 1\\saturnrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\jupiter\\jupiterrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\jupiter\\jupiterrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\mars\\marsrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\mars\\marsrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\earth unity\\earthrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\earth unity\\earthrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\venus\\venusrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\venus\\venusrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\aziz rebai\\my project\\assets\\mercury\\mercuryrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\mercury\\mercuryrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeptuneRot.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\neptune\\NeptuneRot.cs",
+              "RelativeDocumentMoniker": "Assets\\neptune\\NeptuneRot.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\neptune\\NeptuneRot.cs",
+              "RelativeToolTip": "Assets\\neptune\\NeptuneRot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:58:20.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UranusRot.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\uranus\\UranusRot.cs",
+              "RelativeDocumentMoniker": "Assets\\uranus\\UranusRot.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\uranus\\UranusRot.cs",
+              "RelativeToolTip": "Assets\\uranus\\UranusRot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:57:17.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaturnRot.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\saturn 1\\SaturnRot.cs",
+              "RelativeDocumentMoniker": "Assets\\saturn 1\\SaturnRot.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\saturn 1\\SaturnRot.cs",
+              "RelativeToolTip": "Assets\\saturn 1\\SaturnRot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:56:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JupiterRot.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\jupiter\\JupiterRot.cs",
+              "RelativeDocumentMoniker": "Assets\\jupiter\\JupiterRot.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\jupiter\\JupiterRot.cs",
+              "RelativeToolTip": "Assets\\jupiter\\JupiterRot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:54:45.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarsRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\mars\\MarsRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\mars\\MarsRotation.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\mars\\MarsRotation.cs",
+              "RelativeToolTip": "Assets\\mars\\MarsRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:53:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EarthRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\earth unity\\EarthRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\earth unity\\EarthRotation.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\earth unity\\EarthRotation.cs",
+              "RelativeToolTip": "Assets\\earth unity\\EarthRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:52:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VenusRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\venus\\VenusRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\venus\\VenusRotation.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\venus\\VenusRotation.cs",
+              "RelativeToolTip": "Assets\\venus\\VenusRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:48:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SunRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\Sun\\SunRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Sun\\SunRotation.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\Sun\\SunRotation.cs",
+              "RelativeToolTip": "Assets\\Sun\\SunRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T22:31:23.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MercuryRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Aziz Rebai\\My project\\Assets\\mercury\\MercuryRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\mercury\\MercuryRotation.cs",
+              "ToolTip": "C:\\Users\\Aziz Rebai\\My project\\Assets\\mercury\\MercuryRotation.cs",
+              "RelativeToolTip": "Assets\\mercury\\MercuryRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T12:06:14.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
